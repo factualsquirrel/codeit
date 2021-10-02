@@ -23,10 +23,10 @@ $ npm run dev
 ### `Contributing`
 Comment on the issue you would like to work on and you will be assigned.
 
-Things to keep in mind:
-• Do not work on the main branch, create a new one with a descriptive name
-• Keep the tree clean
-• Do not make spam PRs
+Things to keep in mind:<br>
+• Do not work on the main branch, create a new one with a descriptive name<br>
+• Keep the tree clean<br>
+• Do not make spam PRs<br>
 
 ### `Contributors`
 <a href="https://github.com/astitva3377/codeit/graphs/contributors">
