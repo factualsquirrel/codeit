@@ -1,0 +1,13 @@
+.container {
+    background-color: #1D1E22;
+    height: 100%;
+    color: #B7BBC8;
+    padding-left: 5px;
+    padding-right: 5px;
+    position: relative;
+}
+
+.title {
+    padding: 10px;
+    font-weight: bold;
+}
