@@ -1,0 +1,17 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    top: 0;
+    overflow-x: hidden;
+}
+
+.left {
+    left: 0;
+    background-color: #000;
+}
+
+.right {
+    right: 0;
+    background-color: #FFF;
+}
